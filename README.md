@@ -1,6 +1,6 @@
 # Home Imobiliária: site e painel administrativo construídos com IA
 
-> **Case de portfólio.** Este é um projeto real de cliente, em produção em **[homeimobiliaria.imb.br](https://www.homeimobiliaria.imb.br)**. O código-fonte é privado. Aqui eu documento o problema, as decisões de arquitetura, o processo de construção com IA e os resultados.
+> **Case de portfólio.** Este é um projeto real de cliente, em produção em **[homeimobiliaria.imb.br](https://www.homeimobiliaria.imb.br)**. A imobiliária é recém-aberta e ainda vai cadastrar os primeiros imóveis, por isso o catálogo pode aparecer vazio. O código-fonte é privado. Aqui eu documento o problema, as decisões de arquitetura, o processo de construção com IA e os resultados.
 
 ![Home do site (desktop)](images/01-home-desktop.png)
 
@@ -77,8 +77,8 @@ Três momentos em que a IA fez diferença real:
 
 ## Resultados
 
-- Site **em produção com uso real** desde ago/2026, em domínio próprio
-- Equipe da imobiliária **autônoma** para cadastrar imóveis e tratar leads
+- Site **em produção** desde ago/2026, em domínio próprio
+- Painel pronto para a equipe cadastrar imóveis e tratar leads **sem depender de um desenvolvedor**
 - Navegação de **até 13 s → ~6 ms** após a correção da causa raiz
 - Do primeiro commit à produção em **cerca de 2 meses**, trabalhando sozinho
 
